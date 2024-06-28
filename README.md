@@ -19,7 +19,7 @@ https://github.com/Bug16An/literalura/assets/151875222/0a795745-ec00-4a7c-968a-d
 <p>Java versão 21</p>
 <p>JSON</p>
 <p>JPA - Java Persistence API</p>
-<p>Spring FrameWork 3.3.1</p>
+<p>Spring boot 3.3.1</p>
 <p>Maven</p>
 <p>API Gutendex</p>
 <p>Postman</p>
